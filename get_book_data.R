@@ -55,8 +55,9 @@ events <- substr(text_clean,event_start+1,event_end-1)
 text_start <- as.integer(str_locate(text_clean,'<p>')[,2])
 text_end <- as.integer(str_locate(text_clean,'</div>')[,1])
 texts <- substr(text_clean,text_start+1,text_end-1)
-texts <- gsub('<p>','',texts)
-texts <- gsub('<\\/p>','',texts)
+texts <- gsub('(<)(p|br|i|h5)(>)','',texts)
+texts <- gsub('(<\\/)(p|br|i|h5)(>)','',texts)
+texts <- trimws(texts,which = 'both')
 
 book_df <- data.frame(volume=volumes,book=books,chapter=chapters,event=events,text=texts, stringsAsFactors = F)
 
