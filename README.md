@@ -24,3 +24,18 @@ Quick Link
 
 ### :a: About
 
+This project involves downloading both Volumes of Le Morte D'Arthur by Sir Thomas Malory to build a dataset for a Tableau community project, #IronQuest run by Sarah Bartlett. 
+
+For August 2020 the #IronQuest project was on "Myths, Mystery & Magic", you can find out more in Sarah's blog here: [https://sarahlovesdata.co.uk/2020/08/08/iron-quest-myths-mystery-magic/](https://sarahlovesdata.co.uk/2020/08/08/iron-quest-myths-mystery-magic/)
+
+
+The R scripts:
+- retrieve both volumes of the work
+- create a dataset of 1 chapter per row
+- split the text into 1,500 character sections for readability on Tableau
+- tag characters in the story for highlight functionality in Tableau
+- merge to my timeline which states the position of each chapter in the visual
+
+
+[https://public.tableau.com/views/ArthurianLegend/ArthurianLegend?:language=en&:display_count=y&:origin=viz_share_link](https://public.tableau.com/views/ArthurianLegend/ArthurianLegend?:language=en&:display_count=y&:origin=viz_share_link)
+
