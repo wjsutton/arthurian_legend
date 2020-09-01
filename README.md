@@ -36,6 +36,7 @@ The R scripts:
 - tag characters in the story for highlight functionality in Tableau
 - merge to my timeline which states the position of each chapter in the visual
 
-
-[https://public.tableau.com/views/ArthurianLegend/ArthurianLegend?:language=en&:display_count=y&:origin=viz_share_link](https://public.tableau.com/views/ArthurianLegend/ArthurianLegend?:language=en&:display_count=y&:origin=viz_share_link)
-
+See the viz on Tableau Public:<br>
+<a href="https://public.tableau.com/views/ArthurianLegend/ArthurianLegend?:language=en&:display_count=y&:origin=viz_share_link">
+<img src="https://pbs.twimg.com/media/Eg17WqZWkAM-x8-?format=jpg&name=small">
+</a>
