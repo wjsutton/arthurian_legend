@@ -3,11 +3,9 @@
 </h1>
 
 
-[![Status](https://www.repostatus.org/badges/latest/wip.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/arthurian_legend.svg)](https://github.com/wjsutton/arthurian_legend/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/arthurian_legend.svg)](https://github.com/wjsutton/arthurian_legend/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/wjsutton/arthurian_legend.svg)](https://github.com/wjsutton/arthurian_legend/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/wjsutton/arthurian_legend.svg)](https://github.com/wjsutton/arthurian_legend/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 Extracting the works of Le Morte D'Arthur by Sir Thomas Malory for a Tableau Viz #IronQuest project
- 
-:construction: Repo Under Construction :construction: 
 
 [Twitter][Twitter] :speech_balloon:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[LinkedIn][LinkedIn] :necktie:&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[GitHub :octocat:][GitHub]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Website][Website] :link:
 
